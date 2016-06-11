@@ -1,0 +1,8 @@
+{
+    "name": "epickris/data-format",
+    "autoload": {
+        "psr-4": {
+            "EpicKris\\": "src/"
+        }
+    }
+}
